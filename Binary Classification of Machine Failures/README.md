@@ -24,5 +24,5 @@
 - LogisticRegressionCV
 - Weighted Ensemble Model by Optuna
 # 코드
-[Binary Classification of Machine Failures](https://github.com/Arammmmm/kaggle/blob/cf6609f886100a99dce7611fa123a563abd189fa/Binary%20Classification%20of%20Machine%20Failures/)
+[Binary Classification of Machine Failures](https://github.com/Arammmmm/kaggle/blob/b111755e60167bf09757e62e5f3ad40db562b7bb/Binary%20Classification%20of%20Machine%20Failures/Binary_Classification_of_Machine_Failures.ipynb)
 # 참고자료
