@@ -1,0 +1,12 @@
+version: 2
+id: Binary Classification of Machine Failures
+score: 0.98403
+teams: 1502
+rank: 58
+date: 2023-07-03
+organization: SecuLayer
+team:
+  name: ARG
+  members:
+    - id: ARG
+      name: aram
