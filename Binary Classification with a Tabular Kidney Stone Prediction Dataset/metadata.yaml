@@ -1,0 +1,12 @@
+version: 2
+id: Binary Classification with a Tabular Kidney Stone Prediction Dataset
+score: 
+teams: 
+rank: 
+date: 2023-07-0
+organization: SecuLayer
+team:
+  name: ARG
+  members:
+    - id: ARG
+      name: aram
