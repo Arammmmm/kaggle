@@ -1,0 +1,12 @@
+version: 2
+id: Binary Classification with a Tabular Employee Attrition Dataset
+score: 0.89267
+teams: 665
+rank: 131
+date: 2023-07-04
+organization: SecuLayer
+team:
+  name: ARG
+  members:
+    - id: ARG
+      name: aram
