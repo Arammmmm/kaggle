@@ -1,7 +1,7 @@
 # Binary Classification of Machine Failures
 ***
 # 결과
-
+***
 ## 요약정보
 - 도전기관 : 시큐레이어
 - 도전자 : 곽아람
@@ -20,4 +20,4 @@
 
 # 코드
 
-# 참고자
+# 참고자료
