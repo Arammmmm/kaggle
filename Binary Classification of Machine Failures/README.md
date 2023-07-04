@@ -11,3 +11,4 @@
 - 순위 및 비율 : 58(3.86%)
 
 # 결과 화면
+https://github.com/Arammmmm/kaggle/blob/fec49b83c8f493fcb62b61aaa3f0ffb863fa3822/Binary%20Classification%20of%20Machine%20Failures/img/score.png
