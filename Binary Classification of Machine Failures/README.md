@@ -12,7 +12,7 @@
 
 # 결과 화면
 <img src="https://github.com/Arammmmm/kaggle/blob/45163fd2cb6228c8cc686ed473e52ae7bd2da51d/Binary%20Classification%20of%20Machine%20Failures/img/score.png">
-<img src="">
+<img src="https://github.com/Arammmmm/kaggle/blob/d8e1b8555bb19b97d411338b64f1cacf5da58e7f/Binary%20Classification%20of%20Machine%20Failures/img/leaderboard.png">
 
 # 사용한 방법 & 알고리즘
 ***
