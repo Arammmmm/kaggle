@@ -16,7 +16,11 @@
 
 # 사용한 방법 & 알고리즘
 ***
-- 
+- CatBoost
+- XGBoost
+- LGBM
+- Lasso, Ridge regression
+- Neural Network
 # 코드
-[title]()
+[Binary Classification with a Tabular Employee Attrition Dataset](https://github.com/Arammmmm/kaggle/blob/c1969d9314d8995be68ad2722e59b235dac7854c/Binary%20Classification%20with%20a%20Tabular%20Employee%20Attrition%20Dataset/Binary_Classification_with_a_Tabular_Employee_Attrition_Dataset.ipynb)
 # 참고자료
