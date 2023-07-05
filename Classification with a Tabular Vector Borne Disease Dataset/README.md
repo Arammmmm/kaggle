@@ -5,18 +5,18 @@
 ## 요약정보
 - 도전기관 : 시큐레이어
 - 도전자 : 곽아람
-- 최종 스코어 : 
-- 제출 일자 : 2023-07-
-- 총 참여 팀수 : 
-- 순위 및 비율 : (0.00%)
+- 최종 스코어 : 0.50877
+- 제출 일자 : 2023-07-05
+- 총 참여 팀수 : 934
+- 순위 및 비율 : 14(1.50%)
 
 # 결과 화면
-<img src="">
-<img src="">
+<img src="https://github.com/Arammmmm/kaggle/blob/6b71603a9b90e0a3cb7411047a2da51686f53fb7/Classification%20with%20a%20Tabular%20Vector%20Borne%20Disease%20Dataset/img/score.png">
+<img src="https://github.com/Arammmmm/kaggle/blob/6b71603a9b90e0a3cb7411047a2da51686f53fb7/Classification%20with%20a%20Tabular%20Vector%20Borne%20Disease%20Dataset/img/leaderboard.png">
 
 # 사용한 방법 & 알고리즘
 ***
 - 
 # 코드
-[Classification with a Tabular Vector Borne Disease Dataset]()
+[Classification with a Tabular Vector Borne Disease Dataset](https://github.com/Arammmmm/kaggle/blob/f63bfb6ac6e853c1211134c5b850f95c3a6b1887/Classification%20with%20a%20Tabular%20Vector%20Borne%20Disease%20Dataset/Classification_with_a_Tabular_Vector_Borne_Disease_Dataset.ipynb)
 # 참고자료
