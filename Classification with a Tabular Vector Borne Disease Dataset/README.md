@@ -16,7 +16,16 @@
 
 # 사용한 방법 & 알고리즘
 ***
-- 
+- Support Vector Machine
+- LogisticRegression
+- XGBoost
+- LightGBM
+- Catboost
+- BalancedRandomForest
+- RandomForest
+- Ensemble + optuna
+- Mean Average Precision (MAP@K)
+
 # 코드
 [Classification with a Tabular Vector Borne Disease Dataset](https://github.com/Arammmmm/kaggle/blob/f63bfb6ac6e853c1211134c5b850f95c3a6b1887/Classification%20with%20a%20Tabular%20Vector%20Borne%20Disease%20Dataset/Classification_with_a_Tabular_Vector_Borne_Disease_Dataset.ipynb)
 # 참고자료
