@@ -16,7 +16,8 @@
 
 # 사용한 방법 & 알고리즘
 ***
-- 
+- XGBoost
+  
 # 코드
 [Binary Classification with a Tabular Reservation Cancellation Dataset](https://github.com/Arammmmm/kaggle/blob/e476fd908e64857c8acac005d9ac43da9a6300d0/Binary%20Classification%20with%20a%20Tabular%20Reservation%20Cancellation%20Dataset/Binary%20Classification%20with%20a%20Tabular%20Reservation%20Cancellation%20Dataset.ipynb)
 # 참고자료
