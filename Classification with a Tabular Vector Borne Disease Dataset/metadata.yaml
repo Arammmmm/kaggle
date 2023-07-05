@@ -1,9 +1,9 @@
 version: 2
 id: Classification with a Tabular Vector Borne Disease Dataset
-score: 
-teams: 
-rank: 
-date: 2023-07-0
+score: 0.50877
+teams: 934
+rank: 14
+date: 2023-07-05
 organization: SecuLayer
 team:
   name: ARG
