@@ -12,7 +12,7 @@
 
 # 결과 화면
 <img src="https://github.com/Arammmmm/kaggle/blob/6b71603a9b90e0a3cb7411047a2da51686f53fb7/Classification%20with%20a%20Tabular%20Vector%20Borne%20Disease%20Dataset/img/score.png">
-<img src="https://github.com/Arammmmm/kaggle/blob/6b71603a9b90e0a3cb7411047a2da51686f53fb7/Classification%20with%20a%20Tabular%20Vector%20Borne%20Disease%20Dataset/img/leaderboard.png">
+<img src="https://github.com/Arammmmm/kaggle/blob/b6c1fcd063d6c7729b6d690bf9ea0a0a47de78f1/Classification%20with%20a%20Tabular%20Vector%20Borne%20Disease%20Dataset/img/leaderboard.png">
 
 # 사용한 방법 & 알고리즘
 ***
