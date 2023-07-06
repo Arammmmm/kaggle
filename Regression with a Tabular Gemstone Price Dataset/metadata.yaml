@@ -1,0 +1,12 @@
+version: 2
+id: Regression with a Tabular Gemstone Price Dataset
+score: 
+teams: 
+rank: 
+date: 2023-07-0
+organization: SecuLayer
+team:
+  name: ARG
+  members:
+    - id: ARG
+      name: aram
