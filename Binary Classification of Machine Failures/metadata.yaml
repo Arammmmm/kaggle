@@ -1,5 +1,5 @@
 version: 2
-id: Binary Classification of Machine Failures
+id: playground-series-s3e17
 score: 0.98416
 teams: 1502
 rank: 40
@@ -9,4 +9,4 @@ team:
   name: ARG
   members:
     - id: ARG
-      name: aram
+      name: 곽아람
