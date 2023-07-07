@@ -1,5 +1,5 @@
 version: 2
-id: Regression with a Tabular Gemstone Price Dataset
+id: playground-series-s3e8
 score: 571.24863
 teams: 734
 rank: 34
@@ -9,4 +9,4 @@ team:
   name: ARG
   members:
     - id: ARG
-      name: aram
+      name: 곽아람
