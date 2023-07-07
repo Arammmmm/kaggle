@@ -1,5 +1,5 @@
 version: 2
-id: Classification with a Tabular Vector Borne Disease Dataset
+id: playground-series-s3e13
 score: 0.50877
 teams: 934
 rank: 14
@@ -9,4 +9,4 @@ team:
   name: ARG
   members:
     - id: ARG
-      name: aram
+      name: 곽아람
