@@ -1,5 +1,5 @@
 version: 2
-id: Binary Classification with a Tabular Reservation Cancellation Dataset
+id: playground-series-s3e7
 score: 0.90495
 teams: 678
 rank: 127
@@ -9,4 +9,4 @@ team:
   name: ARG
   members:
     - id: ARG
-      name: aram
+      name: 곽아람
