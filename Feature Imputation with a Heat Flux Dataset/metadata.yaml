@@ -1,5 +1,5 @@
 version: 2
-id: Feature Imputation with a Heat Flux Dataset
+id: playground-series-s3e15
 score: 0.072854
 teams: 693
 rank: 29
@@ -9,4 +9,4 @@ team:
   name: ARG
   members:
     - id: ARG
-      name: aram
+      name: 곽아람
