@@ -11,8 +11,8 @@
 - 순위 및 비율 : 2(0.09%)
 
 # 결과 화면
-<img src="">
-<img src="">
+<img src="https://github.com/Arammmmm/kaggle/blob/378e4e340e3f1420695ddabca751e889ecb9b54e/Recruit%20Restaurant%20Visitor%20Forecasing/img/score.png">
+<img src="https://github.com/Arammmmm/kaggle/blob/378e4e340e3f1420695ddabca751e889ecb9b54e/Recruit%20Restaurant%20Visitor%20Forecasing/img/leaderboard.png">
 
 # 사용한 방법 & 알고리즘
 ***
