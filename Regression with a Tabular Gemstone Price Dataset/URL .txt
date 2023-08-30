@@ -1,0 +1,12 @@
+Regression with a Tabular Gemstone Price Dataset
+Playground Series - Season 3, Episode 8
+
+
+<대회>
+https://www.kaggle.com/competitions/playground-series-s3e8/overview
+
+<원데이터>
+https://www.kaggle.com/datasets/colearninglounge/gemstone-price-prediction
+
+<상위코드>
+https://www.kaggle.com/code/shionmatsuoka/new-features-and-outlier-improvement
