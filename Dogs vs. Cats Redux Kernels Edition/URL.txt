@@ -1,0 +1,29 @@
+Dogs vs. Cats Redux: Kernels Edition
+Distinguish images of dogs from cats
+
+<대회>
+https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition
+
+<상위코드>
+https://www.kaggle.com/code/anujpanthri/fastai-cat-dog-notebook (clipping_0.0125_submision.csv, 28위)
+
+-> densenet201 0.04271, 22위
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
