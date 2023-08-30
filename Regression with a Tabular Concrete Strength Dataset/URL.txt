@@ -1,0 +1,11 @@
+Regression with a Tabular Concrete Strength Dataset
+Playground Series - Season 3, Episode 9
+
+<대회>
+https://www.kaggle.com/competitions/playground-series-s3e9/
+
+<원데이터>
+https://www.kaggle.com/datasets/mchilamwar/predict-concrete-strength
+
+<상위코드>
+https://www.kaggle.com/code/rustam1488/s3e9-ens-model
