@@ -1,0 +1,11 @@
+Binary Classification of Machine Failures
+Playground Series - Season 3, Episode 17
+
+<대회>
+https://www.kaggle.com/competitions/playground-series-s3e17
+
+<원데이터>
+https://www.kaggle.com/datasets/dineshmanikanta/machine-failure-predictions
+
+<상위코드>
+https://www.kaggle.com/code/tetsutani/ps3e17-eda-ensemble-ml-pipeline-shap#Weighted-Ensemble-Model-by-Optuna-on-Training
