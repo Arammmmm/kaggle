@@ -1,0 +1,11 @@
+Classification with a Tabular Vector Borne Disease Dataset
+Playground Series - Season 3, Episode 13
+
+<대회>
+https://www.kaggle.com/competitions/playground-series-s3e13/
+
+<원데이터>
+https://www.kaggle.com/datasets/richardbernat/vector-borne-disease-prediction
+
+<상위코드>
+https://www.kaggle.com/code/zhukovoleksiy/5-solution-ps3e13-ensemble/notebook
