@@ -1,0 +1,14 @@
+Explore Multi-Label Classification with an Enzyme Substrate Dataset
+Playground Series - Season 3, Episode 18
+
+<대회>
+https://www.kaggle.com/competitions/playground-series-s3e18
+
+<원데이터>
+https://www.kaggle.com/datasets/gopalns/ec-mixed-class
+
+<상위코드>
+https://www.kaggle.com/code/onurkoc83/overfit-champion
+
+
+
