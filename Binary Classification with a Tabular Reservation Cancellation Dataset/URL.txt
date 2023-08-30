@@ -1,0 +1,11 @@
+Binary Classification with a Tabular Reservation Cancellation Dataset
+Playground Series - Season 3, Episode 7
+
+<대회>
+https://www.kaggle.com/competitions/playground-series-s3e7
+
+<원데이터>
+https://www.kaggle.com/datasets/gauravduttakiit/reservation-cancellation-prediction
+
+<상위코드>
+https://www.kaggle.com/code/sergiosaharovskiy/ps-s3e7-2023-eda-and-submission
