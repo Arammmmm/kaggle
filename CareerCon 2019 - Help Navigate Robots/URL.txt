@@ -1,0 +1,19 @@
+CareerCon 2019 - Help Navigate Robots
+Compete to get your resume in front of our sponsors
+
+
+<대회> 
+https://www.kaggle.com/competitions/career-con-2019
+
+- 캐글 대회 홈페이지에서 다운받아지는 데이터와 대회진행 당시의 데이터(X_test.csv)가 다름
+- 대회진행 당시의 데이터는 input 폴더에
+- 현재 홈페이지에서 다운받아지는 데이터는 data폴더에 있음
+
+<상위코드>
+https://www.kaggle.com/code/skondrash/nn-lstm-fft-features/notebook?scriptVersionId=12728595 (nn-lstm-fft-features_submission, 56위)
+https://www.kaggle.com/code/pjofrelora/hybrid-classifier-solution-11th-place (Hybrid_Classified.csv, 7위 / Ensemble_Classified.csv, 38위)
+https://www.kaggle.com/code/prith189/starter-code-for-3rd-place-solution (starter_3rd_sub.csv, 10위) # 1-D Convolutional NN 기반
+
+
+
+
