@@ -1,0 +1,11 @@
+Regression with a Crab Age Dataset
+Playground Series - Season 3, Episode 16
+
+<대회>
+https://www.kaggle.com/competitions/playground-series-s3e16/
+
+<원데이터>
+https://www.kaggle.com/datasets/sidhus/crab-age-prediction
+
+<상위코드>
+https://www.kaggle.com/code/xiaohu2200/score-1-3360-on-private
