@@ -1,0 +1,11 @@
+Feature Imputation with a Heat Flux Dataset
+Playground Series - Season 3, Episode 15
+
+<대회>
+https://www.kaggle.com/competitions/playground-series-s3e15/
+
+<원데이터>
+https://www.kaggle.com/datasets/saurabhshahane/predicting-heat-flux
+
+<상위코드>
+https://www.kaggle.com/code/yeoyunsianggeremie/s3e15-ensemble-knn-imputation-score-0-72854
